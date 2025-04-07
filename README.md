@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T3mmyKay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T3mmyKay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3mmyKay&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3mmyKay&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
 ## 🤝 Let's Connect
@@ -52,5 +52,5 @@
 </div>
 
 <div align="right">
-  <i>Last Updated: 2025-02-01</i>
+  <i>Last Updated: 2025-04-07</i>
 </div>
