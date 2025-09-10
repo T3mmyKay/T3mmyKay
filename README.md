@@ -32,6 +32,8 @@
 
 ## 📈 GitHub Activity
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T3mmyKay&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=T3mmyKay&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3mmyKay&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
@@ -44,5 +46,5 @@
 </div>
 
 <div align="right">
-  <i>Last Updated: 2025-04-07</i>
+  <i>Last Updated: 2025-09-10</i>
 </div>
