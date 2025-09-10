@@ -1,13 +1,5 @@
 # Hello World! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T3mmyKay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T3mmyKay&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 💻 Tech Stack
 
 ### Backend Development
