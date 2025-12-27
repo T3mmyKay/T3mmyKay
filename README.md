@@ -53,7 +53,9 @@ I’m a backend-leaning full‑stack engineer who enjoys building reliable enter
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T3mmyKay&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T3mmyKay" alt="GitHub Streak" /></a>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=T3mmyKay&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3mmyKay&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
