@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Schedule daily updates (at midnight Lagos time approx)
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual trigger
+  # (optional) Run workflow manually
   workflow_dispatch:
-  # Run on push to main branch
+  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,22 +14,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your token from Step 2
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Options
           user: T3mmyKay
           template: classic
-          base: header, activity, community, repositories, metadata
+          
+          # "Contributions" are part of 'activity'. 
+          # 'header' adds your name/profile picture.
+          base: header, activity
           config_timezone: Africa/Lagos
           
-          # Theme (matches your preference)
-          config_theme: tokyonight
-          
-          # Content configuration
+          # "Most used languages"
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
