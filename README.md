@@ -1,18 +1,25 @@
 # Hi, I'm Temiloluwa Ayomide (T3mmyKay) 👋
 
-I’m a backend-leaning full‑stack engineer who enjoys building reliable enterprise systems, clean APIs, and scalable architectures. I love turning complex problems into simple, robust solutions.
+I'm a backend-leaning full‑stack engineer who enjoys building reliable enterprise systems, clean APIs, and scalable architectures. I love turning complex problems into simple, robust solutions.
 
 - Focus: Digital transformation solutions, payment systems integration, and data-driven applications
-- Open to collaborate on: .NET, Laravel, Vue/Nuxt projects
+- Open to collaborate on: .NET, Laravel, Vue/Nuxt, Flutter projects
 
 ---
 
 ## 📌 Featured Work
-- [Tedikom-Wireless/erp-sass](https://github.com/Tedikom-Wireless/erp-sass)
-- [Tedikom-Wireless/AKSEHRS](https://github.com/Tedikom-Wireless/AKSEHRS)
-- [Tedikom-Wireless/ehr-saas](https://github.com/Tedikom-Wireless/ehr-saas)
-- [T3mmyKay/oyrtma](https://github.com/T3mmyKay/oyrtma)
-- [T3mmyKay/erp-eka](https://github.com/T3mmyKay/erp-eka)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [OYSHMB](https://github.com/T3mmyKay/OYSHMB) | 🏥 Enterprise hospital management system for Oyo State Hospital Management Board | C#, ASP.NET Core, PostgreSQL |
+| [oyrtma](https://github.com/T3mmyKay/oyrtma) | 🎫 Full-stack ticketing system with ASP.NET Core Web API, Blazor & .NET Aspire | C#, Blazor, Redis, PostgreSQL |
+| [TIMS-mobile](https://github.com/T3mmyKay/TIMS-mobile) | 🚌 Cross-platform transport management app with dashboard & bulk ID generation | Flutter, Dart |
+| [WasteFlow](https://github.com/T3mmyKay/WasteFlow) | ♻️ Smart waste management platform with digital wallet & real-time tracking | C#, ASP.NET Core, SQL Server |
+
+### Other Notable Projects
+- [Tedikom-Wireless/erp-sass](https://github.com/Tedikom-Wireless/erp-sass) - ERP SaaS Solution
+- [Tedikom-Wireless/AKSEHRS](https://github.com/Tedikom-Wireless/AKSEHRS) - Electronic Health Records System
+- [OYSJ-API](https://github.com/T3mmyKay/OYSJ-API) - Oyo State Judiciary e-Filing System API
 
 ---
 
@@ -24,10 +31,11 @@ I’m a backend-leaning full‑stack engineer who enjoys building reliable enter
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Frontend
+### Frontend & Mobile
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases & Tools
@@ -43,6 +51,7 @@ I’m a backend-leaning full‑stack engineer who enjoys building reliable enter
 - Enterprise Application Development
 - API Design & Development
 - Full Stack Development
+- Cross-Platform Mobile Development
 - System Architecture
 - Digital Transformation Solutions
 - Payment Systems Integration
@@ -57,7 +66,7 @@ I’m a backend-leaning full‑stack engineer who enjoys building reliable enter
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T3mmyKay)
 
 ---
@@ -66,5 +75,5 @@ I’m a backend-leaning full‑stack engineer who enjoys building reliable enter
 </div>
 
 <div align="right">
-  <i>Last Updated: 2025-09-10</i>
+  <i>Last Updated: 2025-12-29</i>
 </div>
